@@ -7,7 +7,7 @@ export const data = [
             'Atom',
             'Adobe Photoshop'
         ],
-        answer: 3
+        answer: 'Adobe Photoshop'
     },
 
     {
@@ -18,7 +18,7 @@ export const data = [
             'C++',
             'C#'
         ],
-        answer: 1
+        answer: 'C'
     },
 
     {
@@ -41,6 +41,6 @@ export const data = [
             'if',
             'switch'
         ],
-        answer: 1
+        answer: 'for'
     },
 ]
